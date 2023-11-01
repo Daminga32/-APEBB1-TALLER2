@@ -1,10 +1,10 @@
 package proyecto02;
 public class Proyecto02 {
 public static void main(String[] args) {
-    System.out.println("Ejemplo dos b√°sico de Java\n" +
-"Versionado a trav√©s de Git\n" +
-"Manejado desde GitHub\n" +
-"Adem√°s se usar GitHubClassroom");
+    System.out.println("Ejemplo dos b·sico de Java, "
+            + "Versionado a travÈs de Git ,"
+            + "Manejado desde GitHub, "
+            + "Adem·s se usar GitHubClassroom");
     }
     
 }
